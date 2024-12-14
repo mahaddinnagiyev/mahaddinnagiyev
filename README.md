@@ -1,6 +1,6 @@
 ## Hi there. Welcome to my github page. 👋 👋
 
-I'm Mahaddin Nagiyev. Information Technology student at Azerbaijan State University of Economic.
+I'm Mahaddin Nagiyev, a motivated Software Developer with experience in designing and building efficient, scalable, and high-performance systems.
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagiyev9&show_icons=true&theme=radical)
 
