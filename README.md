@@ -19,13 +19,13 @@ MERN Stack Developer | [Codelandia IT & Design School](https://codelandia.edu.az
 
 ## Connect with Me
 
-<a href="mailto:meheddinngyv9@gmail.com" target="_blank">
+<a href="mailto:meheddinngyv9@gmail.com" target="#">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://www.linkedin.com/in/nagiyev-mahaddin-3395a72a0/" target="_blank">
+<a href="https://www.linkedin.com/in/nagiyev-mahaddin-3395a72a0/" target="#">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://www.instagram.com/nagiyev.5/" target="_blank">
+<a href="https://www.instagram.com/nagiyev.5/" target="#">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
