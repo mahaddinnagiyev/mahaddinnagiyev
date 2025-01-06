@@ -4,7 +4,7 @@ I'm Mahaddin Nagiyev, a motivated Software Developer with experience in designin
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagiyev9&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagiyev9&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaddinnagiyev&layout=compact&theme=radical)
 
 ## Education
 Information Technology | [Azerbaijan State University of Economics](https://unec.edu.az/)
