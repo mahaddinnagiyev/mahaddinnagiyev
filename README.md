@@ -2,7 +2,7 @@
 
 I'm Mahaddin Nagiyev, a motivated Software Developer with experience in designing and building efficient, scalable, and high-performance systems.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagiyev9&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahaddinnagiyev&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaddinnagiyev&layout=compact&theme=radical)
 
