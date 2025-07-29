@@ -13,10 +13,9 @@ MERN Stack Developer | [Codelandia IT & Design School](https://codelandia.edu.az
 
 
 ## Career
+- 💼 Currently working as a **Full Stack Develeoper** at Cubics Technology
 - 💼 Previously worked as a **Node.js Backend Developer Intern** at Intern Intelligence.
 - 💼 Previously worked as a **Python Backend Developer Intern** at CodeAlpha.
-- 💼 Currently seeking opportunities as a **Backend Developer**, **Backend Engineer**, or **Software Developer**.
-- 🎓 Preparing for the **AWS Certified Solutions Architect** certification.
 
 
 # 💻 Tech Stack:
